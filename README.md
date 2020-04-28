@@ -18,7 +18,9 @@
 
 ### API's
 
-* Connecting to and retrieving data from API's. Parsing and displaying data. Creating API's.
+* Connecting to and retrieving data from API's. 
+* Parsing and displaying data.
+* Creating API's.
 
 ### MVC
 
